@@ -25,7 +25,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
     }
   }
 		if(($result1 == $password) )  {
-            header("Location: index.php");
+            header("Location: index1.php");
 		}
 		else {
 			$showError = "Passwords do not match";

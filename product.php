@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="css/normalize.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="stylesheet" type="text/css" href="css/layout.css">
-        <link rel="stylesheet"  href="index.php">
+        <link rel="stylesheet"  href="index1.php">
     <link rel="stylesheet"  href="about.php">
 		<link rel="stylesheet"  href="contact.php">
     <link rel="stylesheet"  href="product.php">
@@ -35,7 +35,7 @@
         </div>
         <div class="collapse navbar-collapse navbar-right" id="myNavbar">
             <ul class="nav navbar-nav">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index1.php">Home</a></li>
    				<li><a href="about.php">About</a></li>
    				<li><a href="product.php">Product</a></li>
     			<li><a href="contact.php">Contact</a></li>
