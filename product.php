@@ -49,7 +49,7 @@
 
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2>Contact</h2>
+          <h2>Add Product</h2>
           <hr class="star-primary">
         </div>
       </div>
@@ -57,7 +57,7 @@
       <div class="row">
         <div class="col-lg-6">
        
-    <h3>contact us if you have any query</h3>
+    <h3>Add Product</h3>
     <form action='' method="POST" >
         <div class="form-group">
             <label>Name:</label>

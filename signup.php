@@ -37,7 +37,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 			$result = $mysqli->query($sql);
           
 				$showAlert = true;
-		
+				header("Location: index.php");
 	
 			
     }
@@ -50,7 +50,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 // }
 	
 }//end if
-$exists="Username already available";	
+// $exists="Username already available";	
 ?>
 	
 <!doctype html>

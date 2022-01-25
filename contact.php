@@ -59,7 +59,7 @@
       <div class="row">
         <div class="col-lg-6 ">
        
-    <h3>PHP MySQL contact us form with validation using Bootstrap</h3>
+    <h3>contact us if you have any query</h3>
     <form action='' method="POST">
         <div class="form-group">
             <label>Name:</label>
